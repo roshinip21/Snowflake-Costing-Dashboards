@@ -2,11 +2,17 @@
 
 This project demonstrates how I built an end-to-end business intelligence solution using **Snowflake** for data warehousing and **Power BI** for visualization. It includes the creation of **data models**, **fact and dimension tables**, and fully integrated **Power BI dashboards** designed to support business users with clear, actionable insights.
 
----
+<p align="center">
+  <img src="https://github.com/roshinip21/Snowflake-Costing-Dashboards/blob/main/30DaysQueriesAnalytics.PNG" width="45%" />
+  &nbsp;
+  <img src="https://github.com/roshinip21/Snowflake-Costing-Dashboards/blob/main/CustomerWHCosts.png" width="45%" height="90%"/>
+</p>
 
 ## 📊 Project Overview
 
 The goal of this project was to transform raw business data into a **structured Snowflake data warehouse** and use **Power BI** to create dashboards that support decision-making across Finance, Product, and Operations teams. The dashboards are designed to provide visibility into **warehouse compute costs**, **ETL job performance**, **user activity**, and **SaaS product usage**.
+
+
 
 ---
 
