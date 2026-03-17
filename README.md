@@ -12,6 +12,17 @@ This project demonstrates how I built an end-to-end business intelligence soluti
 
 The goal of this project was to transform raw business data into a **structured Snowflake data warehouse** and use **Power BI** to create dashboards that support decision-making across Finance, Product, and Operations teams. The dashboards are designed to provide visibility into **warehouse compute costs**, **ETL job performance**, **user activity**, and **SaaS product usage**.
 
+**Business Impact** 
+
+💰 Enabled ~$2M annual revenue impact by improving visibility into client contract utilization and cost allocation
+
+⚡ Reduced warehouse compute cost inefficiencies by identifying underutilized resources and high-cost queries
+
+📉 Improved ETL monitoring efficiency by enabling proactive failure detection and performance tracking
+
+📊 Delivered executive dashboards used for financial planning, product adoption tracking, and operational optimization
+
+🔐 Ensured HIPAA-compliant data governance for healthcare SaaS analytics
 
 
 ---
