@@ -68,7 +68,8 @@ The goal of this project was to transform raw business data into a **structured 
 * **Star Schema** – Fact/dim modeling
 * **DirectQuery/Import** – For optimized performance 
 ---
-##Copyright
+
+## Copyright
 
 Copyright (C) 2026 Roshini Padmanabha. All rights reserved.
 
